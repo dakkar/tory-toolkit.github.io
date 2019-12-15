@@ -1,0 +1,68 @@
+# Site settings
+# accessible in the templates as {{ site.myvariable }}
+title: Tory Toolkit
+email: dave@dave.io
+description: >- # this means to ignore newlines until baseurl:
+  Tools and resources to help you survive the next five years of Tory rule
+twitter_username: syn
+github_username: tory-toolkit
+minimal_mistakes_skin: dark
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:title
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Europe/London
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  # name: First Lastname
+  avatar: /assets/images/logo.svg
+  # bio: My awesome biography constrained to a sentence or two goes here.
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/syn
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/tory-toolkit
+
+footer:
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/
+
+defaults:
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: single
+      author_profile: true
