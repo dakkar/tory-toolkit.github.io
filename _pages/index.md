@@ -42,7 +42,7 @@ bureaucracies, and all sorts of things we haven't come up with yet.
 
 ## What stage is it at?
 
-Very early. I tweeted about looking for development partners on Saturday 16 December at around 23:00, and it went wider
+Very early. I tweeted about looking for development partners on Saturday 14 December at around 23:00, and it went wider
 than I ever imagined. Currently we're gathering a list of people who are interested in helping out, and getting an idea
 of their skillset. If you're interested, you can [submit your details too](/apply).
 
