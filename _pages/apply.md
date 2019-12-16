@@ -1,8 +1,15 @@
 ---
 permalink: /apply
 title: Want to help out?
+classes:
+  - wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Fantastic! We're still very early in the process, so right now we're just collecting details from people interested in
+helping out.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+You can submit your details through the [application form](https://enough-eyeballs.typeform.com/to/dpY4PG).
+
+Please make sure you use a valid email address, as it'll be used to send out invites to the Slack community and for
+other communication. Your details won't be sold or otherwise used without your express consent, which isn't given at any
+point during the form regardless of your responses.

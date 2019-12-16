@@ -24,6 +24,10 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - LICENSE
+  - .gitignore
+  - _config.yml
   - node_modules
   - vendor/bundle/
   - vendor/cache/
