@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About the Toolkit
+title: The Tory Survival Toolkit
 classes:
   - wide
 ---
