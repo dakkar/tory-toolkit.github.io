@@ -14,7 +14,7 @@ If you're already sold and want to help out, [submit your details](/apply). Othe
 
 Yep. It's a working title; it needs to be called _something_ while we're getting everything set up.
 
-## Isn't it a bit political to call it the Tory Toolbox?
+## Isn't it a bit political to call it the _Tory_ Toolkit?
 
 Working title, like I said. But this _is_ a political project. We're going to provide resources to survive Tory rule.
 They've been in power for nine years and it's their policies which make this kind of effort necessary. We see no need to
